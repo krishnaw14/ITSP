@@ -9,4 +9,6 @@ For human detection, we had a raspberry pi with a camera module that captured an
 1. The first approach was with using SVM and hogDescriptor, implemented with openCV.
 2. Second approach was using SURF module in Matlab. 
 
-All the relevant codes and documentation to be added shortly.
+The documentation has been added.
+
+Rpi and surf module codes are not available any more. 
